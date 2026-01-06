@@ -1,0 +1,1 @@
+This Repo is for Frontend Mentor Challenge QR Code Component
